@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+/.venv
+./lab1/.venv
 # Distribution / packaging
 .Python
 build/
